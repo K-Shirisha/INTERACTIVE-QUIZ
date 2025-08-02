@@ -12,7 +12,30 @@
 
 *MENTOR*:NEELA SANTOSH
 
-A dynamic and interactive quiz application developed as part of CODTECH Internship Task 1. Built using HTML, CSS, and JavaScript, this app allows users to answer multiple-choice questions and receive instant feedback. Features include scoring, real-time feedback, and dynamic question loading.
+📚 JavaScript Quiz Application
+📝 Project Description:
+
+This is a dynamic quiz application built using HTML, CSS, and JavaScript as part of the CODTECH internship. The goal of this project is to allow users to interact with a series of quiz questions, receive instant feedback on their answers, and get their final score displayed at the end.
+
+💡 Features:
+
+  -✅ Interactive user interface for answering questions
+
+  -🧠 Real-time feedback after each question
+
+  -📊 Automatic scoring system
+
+  -🔁 Dynamically loaded questions
+
+  -📱 Responsive design for mobile and desktop
+
+  🛠 Technologies Used:
+
+  -HTML5
+
+  -CSS3
+
+  -JavaScript
 
 #OUTPUT
 
